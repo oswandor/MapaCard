@@ -1,0 +1,17 @@
+{
+    "name": "MapaCard",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@microsoft/teamsfx-cli": "1.*"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "mapbox-gl": "^1.13.3",
+        "react-mapbox-gl": "^5.1.1"
+    }
+}
