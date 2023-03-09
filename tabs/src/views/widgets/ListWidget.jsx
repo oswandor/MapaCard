@@ -16,7 +16,7 @@ export class ListWidget extends Widget {
    */
    constructor(){
 
-      
+
    }
 
 
@@ -49,6 +49,7 @@ export class ListWidget extends Widget {
       return null;
     }
   
+    
     microsoftTeams.initialize();
   
 
